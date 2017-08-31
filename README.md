@@ -1,2 +1,2 @@
 # hello-world
-Fys3150, legger til mer tekjsrt
+Fys3150, legger til mer tekst
